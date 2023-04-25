@@ -7,3 +7,7 @@ function b(){
 functon a(){
 
 }
+
+function c(){
+
+}
