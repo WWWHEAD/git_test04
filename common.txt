@@ -4,3 +4,7 @@
 functon a(){
 
 }
+
+function c(){
+
+}
